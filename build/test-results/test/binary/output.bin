@@ -1,0 +1,14 @@
+K[INFO ] 2021-08-09 10:49:52.711 [Test worker] LogClass - clicking on login
+H[INFO ] 2021-08-09 10:49:57.061 [Test worker] LogClass - Enter email id
+H[INFO ] 2021-08-09 10:49:59.162 [Test worker] LogClass - Enter password
+O[INFO ] 2021-08-09 10:50:01.276 [Test worker] LogClass - click on login button
+S[INFO ] 2021-08-09 10:50:06.815 [Test worker] LogClass - you're login successfully
+L[INFO ] 2021-08-09 10:50:06.843 [Test worker] LogClass - click on home icon
+K[INFO ] 2021-08-09 10:50:09.532 [Test worker] LogClass - click on category
+H[INFO ] 2021-08-09 10:50:12.237 [Test worker] LogClass - click on books
+R[INFO ] 2021-08-09 10:50:21.794 [Test worker] LogClass - click on add to wishlist
+G[INFO ] 2021-08-09 10:50:28.303 [Test worker] LogClass - click on card
+R[INFO ] 2021-08-09 10:50:31.422 [Test worker] LogClass - click on checkbox button
+(Book is added to cart is successfully!!
+SUCCESS Test
+„[INFO ] 2021-08-09 10:50:35.629 [Test worker] LogClass - add_to_wishlist_test :take success screenshot in interface listener method

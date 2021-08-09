@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="remove book from cart">
+        <classes>
+            <class name="com.selenium.bookswagon.test.RemoveBookFromCart">
+                <methods>
+                    <include name="login_to_application"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="buy book ">
+        <classes>
+            <class name="com.selenium.bookswagon.test.BuyBookTest">
+                <methods>
+                    <include name="buy_book_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
